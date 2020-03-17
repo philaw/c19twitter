@@ -18,3 +18,4 @@ A list of people on twitter who tested positive COVID-19
 
 Sources:
 * https://www.insider.com/celebrities-with-coronavirus-tested-positive-2020-3
+* https://www.thedailybeast.com/coronavirus-every-star-and-public-figure-diagnosed-with-covid-19-so-far
