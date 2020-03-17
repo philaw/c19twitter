@@ -11,6 +11,8 @@ A list of people on twitter who tested positive COVID-19
 * Olga Kurylenko - https://twitter.com/OlyaKurylenko?s=20
 * Christian Wood - https://twitter.com/Chriswood_5?s=20
 * Lucian Grainge - https://twitter.com/Only1Victor?s=20
+* Kristofer Hivju - https://twitter.com/kristoferhivju?s=20
+
 
 
 
